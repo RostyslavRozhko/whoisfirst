@@ -1,0 +1,7 @@
+{
+  "name": "whoisfirst",
+  "alias": "whoisfirst.now.sh",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
